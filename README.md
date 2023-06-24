@@ -5,7 +5,7 @@ A curated list of awesome [Nerimity](https://nerimity.com) resources
 If you want to contribute, open a pull request and add your project related to Nerimity to this very readme!
 
 ## Official
-[Nerimity Web](https://github.com/Nerimity/Nerimity-web) - Official Nerimity's frontend code, written in Solid.js.
+[Nerimity Web](https://github.com/Nerimity/Nerimity-web) - Official Nerimity's frontend code, built with Solid.js.
 
 [Nerimity Server](https://github.com/Nerimity/Nerimity-server) - Official Nerimity's server, built with TypeScript, Express, Prisma, Socket.io and PostgreSQL.
 
