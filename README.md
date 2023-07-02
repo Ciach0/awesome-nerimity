@@ -11,5 +11,7 @@ If you want to contribute, open a pull request and add your project related to N
 
 [Nerimity RN](https://github.com/Nerimity/NerimityReactNative) - Nerimity Android App built with React Native.
 
+[Nerimity Desktop](https://github.com/Nerimity/Nerimity-desktop) a desktop Nerimity Client made with Electron
+
 ## Unofficial
 [Nerimity Docker](https://github.com/CyberL1/Nerimity-docker) - A dockerized instance of Nerimity, created by [Cyber](https://github.com/CyberL1).
